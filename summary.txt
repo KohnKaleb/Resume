@@ -1,0 +1,5 @@
+1. Python is my most comfortable language. Since the API was such a short one with not many endpoints, I decided to use Flask and the library Flask-RESTful because it allowed me to set up and create the API in a short period of time using their built-in tools.
+
+2. The API isn't suitable for a large application as it uses a list to store transactions instead of a database. If I wanted the API to be more scalable and maintainable, I would have used a different web framework like Django to write the API. An advantage of using Flask for my solution is that it was easy to create in a short period of time, provides documentation, and performs data checks for missing fields.
+
+3. My favorite project I have worked on thus far is a web app using Django that utilizes the Strava API and Mapbox API to create routes for runners when the user provides different input such as distance or elevation. It was challenging because I was working with OAuth 2.0 and connecting to multiple APIs that communicated with one another, both of which I had never done before
